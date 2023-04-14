@@ -1,3 +1,6 @@
 [submodule "DeepDive"]
 	path = DeepDive
 	url = https://github.com/nblauch/DeepDive.git
+[submodule "CORnet"]
+	path = CORnet
+	url = https://github.com/vayzenb/CORnet.git
